@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Add-ons",
+    "action":{
+        "default_popup":"chrome.html",
+        "default_icon":"icon.png"
+    }
+}
